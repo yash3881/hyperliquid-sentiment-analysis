@@ -13,6 +13,13 @@ trader behavior and performance on Hyperliquid DEX.
 | Bitcoin Fear/Greed Index | 2,644 | 4 |
 | Hyperliquid Trader Data | 79,165 | 16 |
 | Merged (after alignment) | 79,159 | 19 |
+##  Dataset Access
+
+Due to file size limitations, datasets are not included in this repository.
+
+Download from:
+- Fear/Greed Dataset: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+- Trader Data: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 
 
